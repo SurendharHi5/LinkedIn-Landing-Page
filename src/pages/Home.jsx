@@ -16,15 +16,6 @@ import Footer from './Footer';
 function Home() {
   return (
     <BrowserRouter>
-    {/* <div className='row'>
-      <div className='col'>
-        <h3>Linked in PREMIUM</h3>
-      </div>
-      <div className='col'>
-          <button type="button" className="btn btn-outline-primary">Start my free trial</button>
-      </div>
-    </div>
-    <hr /> */}
 
     <nav className="navTop navbar navbar-light bg-light fixed-top">
   <div className="container-fluid">
@@ -32,6 +23,19 @@ function Home() {
     <button type="button" className="navBtn btn btn-outline-primary">Start my free trial</button>
   </div>
 </nav>
+
+
+ 
+    {/* <div className='row p-3 navTop'>
+      <div className='col'>
+      <h4 className='navText'><span className='navIc' style={{color:'blue'}}>Linked<FaLinkedin /></span> PREMIUM</h4>
+      </div>
+      <div className='col text-end'>
+      <button type="button" className="navBtn btn btn-outline-primary">Start my free trial</button>
+      </div>
+    </div> */}
+  
+
 
 <div>
   <div className=" text-bg-dark homeCard">
