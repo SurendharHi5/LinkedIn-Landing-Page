@@ -7,7 +7,7 @@ function Inmail() {
       <div className="mb-3 mailBg" id='inMail'>
   <div className="row g-0">
     <div className="col-md-7">
-      <img src="https://st4.depositphotos.com/1049680/21146/i/450/depositphotos_211462106-stock-photo-young-african-american-businessman-using.jpg" className="mailImg mainImg" alt="..." />
+      <img src="https://st4.depositphotos.com/1049680/21146/i/450/depositphotos_211462106-stock-photo-young-african-american-businessman-using.jpg" className="img-fluid rounded-start mailImg mainImg" alt="..." />
     </div>
     <div className="col-md-5 mailCon">
     <div className="body p-5 mt-3">

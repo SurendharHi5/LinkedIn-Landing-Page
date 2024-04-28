@@ -145,20 +145,27 @@
 @media (max-width: 840px) {
 
   .mainImg{
-   margin-top: 80px;
+   margin-top: 60px;
   }
 }
 
-@media (max-width: 810px) {
+/* @media (max-width: 800px) {
 
   .mainImg{
-   margin-top: 100px;
+   margin-top: 130px;
   }
-}
+} */
 
 @media (max-width: 767px) {
 
   .mainImg{
    margin-top: 0;
+  }
+}
+
+@media (max-width: 670px) {
+
+  .mailImg{
+   height: auto;
   }
 }
